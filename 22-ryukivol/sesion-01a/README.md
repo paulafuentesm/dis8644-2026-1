@@ -13,6 +13,7 @@ Uno de sus tantos aportes dentro del ámbito musical-electrónico, fue Oramics. 
 Daphne Oram no sólo fue un gran aporte para el mundo de la música electrónica, si no que también para el feminismo y visibilidad en este rumbo para las mujeres. Se tuvoq eu enfrentrar a un ambiente predominado de hombres debido a su contexto ambiental de la época, pero su pasión por la música electrónica logró romper con el estigmatización para las mujeres.
 
 links: https://asociacionmim.com/daphne-oram-una-mujer-que-desafio-los-limites-de-la-musica-y-la-tecnologia/ https://www.bbc.com/mundo/vert-cul-40225071
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⣀⠠⠀⠀⠤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠒⠀⠲⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⡴⠃⢠⣴⣶⣀⣀⠀⠁⢀⣀⣀⣀⡀⠈⠲⡄⠀⢀⡀⠀⠀⠀⠀⠀⡠⠄⠘⠁⣰⣷⡀⠑⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⣀⠤⠀⠘⠁⠠⣾⣿⣿⣿⣿⡄⢠⣿⣿⡿⣿⣿⣷⡀⠀⣠⣀⠈⠓⠄⣀⠀⢸⠀⢤⣤⣴⣿⣿⣷⣤⣤⠄⢸⠀⠀⠀⡀⠀⢀⡀⠀⠀⠀⠀⠀
