@@ -16,7 +16,7 @@
 - Positivo arriba rojo
 - Negativo abajo negro 
 
-#### Igmagenes de la clase 
+#### Imagenes de la clase 
 
 ![imagen1](./imagen/circuito-6leds)
 ![imagen1](./imagen/circuito-6leds-2)
