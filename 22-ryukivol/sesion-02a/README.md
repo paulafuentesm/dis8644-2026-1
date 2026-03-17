@@ -10,7 +10,7 @@
 - Leds
 - Resistencias 1K (app electrodoc para calcular resistencias)
 
-  ![tabla-resisencias](./imagen/ResistorColorCodes.jpg)
+  ![tabla-resisencias](./imagen/ResistorColorCodes.png)
 
 ### Reglas ascenciales de organización
 - Positivo arriba rojo
