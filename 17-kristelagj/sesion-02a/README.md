@@ -48,11 +48,15 @@ Las resistencias tienen un codigo de color ya que a traves de este metodo podemo
 2.  La tercera barrita son la cantidad de 0 que tiene
 3.  El color dorado es el margen de error o tolerancia.
 
+![tabla](imagenes/tabla_de_resistencia.jpg)
+
 Calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
 Electrodos: aplicación para teléfono
 
 **Esquemático:** Representan de manera gráfica y abstracta el circuito
+
+![esquematico](imagenes/ejemplo_esquematico.jpeg)
 
 **Circuito paralelo:** son independientes
 
@@ -65,6 +69,12 @@ Electrodos: aplicación para teléfono
 Read me es un archivo, no una carpeta
 
 Mucho de las cosas que hacemos es por sentir algo (aaron)
+
+### imagenes de proceso
+![cajas](imagenes/cajas.jpeg)
+![materiales](imagenes/materiales.jpeg)
+![ejercicio](imagenes/ejercicio.jpeg)
+![ejercicio 1](imagenes/ejercicio_1.jpeg)
 
 ### post-clase
 
