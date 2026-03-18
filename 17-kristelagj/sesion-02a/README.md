@@ -36,4 +36,18 @@ Los parlantes de bajo son mucho más grandes ya que el oído humano es más susc
 
 Resistencia electronica: 
 
+Resistencia electrónica: están realizadas con carbón por su alta cantidad de OHM
+
+El cobre tiene 0,075 Ω de resistencia, le cuesta más que al oro pasar los electrones y el oro tiene 0,022 Ω de resistencia.
+
+No existe ningún material que no tenga resistencia. Los científicos han realizado experimentos para bajar la resistencia, pero están adulterando los elementos. 
+
+Las resistencias tienen un codigo de color ya que a traves de este metodo podemos saber cuanta resistenbcia tiene. Nosotros en nuestro caso tenemos de 220 Ω y 1k
+
+Los dos primeros colores son digitos (estos entregados a partir de una tabla que contiene estos datos) 
+
+La tercera barrita son la cantidad de 0 que tiene
+
+El color dorado es el margen de error o tolerancia.
+
 
