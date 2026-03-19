@@ -247,26 +247,24 @@ The Man-Machine de Kraftwerk me llamo mucho la atención, porque siento que acá
 ### Contexto histórico y estético
 El contexto en donde se sitúa de esta banda igual influye mucho, porque vienen de la Alemania de los 70, en Düsseldorf, con toda esta idea de modernidad, industria y tecnología. Eso se nota en el sonido y en cómo se presentan. No es solo música, es un concepto completo.  
 
-### Presentaciones en vivo 
+### Presentaciones en vivo de la época
 En vivo en esa época eran súper particulares. No habían expresiones, ni movimientos, tocaban como si fueran parte de una máquina o como si fueran robots. Se vestían todos iguales, con trajes y corbata. No se sabe si están tocando personales reales o robots.  
 
 ### Visuales y estética artística
-Las visuales de los shows también son clave, se nota que estaban muy influenciada por la bauhaus y el constructivismo. Principalmente usan geometrías, colores simples como negro, blanco y rojo, todo limpio, estructurado, ordenado y repetitivo.  
-
-### El show como instalación artística
-Al juntar todas las características sus shows parecían mas una instalación de artistas visuales con experimentos sonoros.  
+Las visuales de los shows también son clave, se nota que estaban muy influenciada por la bauhaus y el constructivismo. Principalmente usan geometrías, colores simples como negro, blanco y rojo, todo limpio, estructurado, ordenado y repetitivo. Al juntar todas las características sus shows parecían mas una instalación de artistas visuales con experimentos sonoros.  
 
 ### Shows actuales y evolución tecnológica
 Hoy en día sus shows son mucho más modernos, usando pantallas 3d, todo sigue siendo super sincronizado, la finalidad de esta banda sigue siendo la misma, solo que antes era más análogo por la tecnología de la época, ahora es mas digital, por la tecnología de hoy en día  
+
 https://youtu.be/gQlM41JDTGs?si=lkZk5MWZ9BEOJJAc  
 
-siguen siendo lo mismo, solo se van adaptando a las nuevas tecnologías.  
+Siguen siendo lo mismo, solo se van adaptando a las nuevas tecnologías.  
 
 
 ---
 
 ## Sound of Silver — LCD Soundsystem
-
+![ound-of-Silver](imagenes/ound-of-Silver.png)  ![lcd-Soundsystem](imagenes/lcd-Soundsystem.png)
 ### Una repetición más viva y cambiante
 Sound of Silver de LCD Soundsystem, y acá la sensación es totalmente distinta, la sensación no es tan de repetición “mecánica” como en Kraftwerk. Es como una repetición más viva, más cambiante, donde van entrando y saliendo cosas todo el tiempo.  
 
@@ -276,11 +274,7 @@ Sound of Silver de LCD Soundsystem, y acá la sensación es totalmente distinta,
 ### Sonido humano e imperfecto
 Este disco suena muy humano, hay errores, hay saturación, hay momentos donde todo parece medio desordenado, pero a propósito. Me da la sensación de que quieren que suene real, no perfecto.  
 
-### Uso de la repetición y construcción por capas
-Lo que más me llaama la atención es cómo usan la repetición, pero a medida que suena, se van agregando mas capas, mas percusiones, sintetizadores, voces, va como evolucionando a medida que avanza.  
-
-### Instrumentación y humanidad
-Las imperfecciones humanes se notan, usando instruementos mas reales mas cotidianos, como la batería, el bajo, guitarras, eso hace que suene mas humano. no es limpio ni perfecto.  
+Lo que más me llaama la atención es cómo usan la repetición, pero a medida que suena, se van agregando más capas, más percusiones, sintetizadores, voces, va como evolucionando a medida que avanza. Las imperfecciones humanes se notan, usando instruementos mas reales mas cotidianos, como la batería, el bajo, guitarras, eso hace que suene mas humano. no es limpio ni perfecto.  
 
 ### Contrastes emocionales
 También hay harto contraste: canciones que puedes bailar, pero que al mismo tiempo tienen letras medio tristes o reflexivas. Eso me gusta porque no es solo música para fiesta.  
