@@ -59,6 +59,10 @@ Compre unas bolsas para ordenar por piezas entregadas, ya que así tengo un orde
 
 Por otro lado, se reconoce cada elemento que se nos entregó de manera visual, pero nombres y que hacen, no muy bien, entonces me dedique a revisar los apuntes de mis compañeros para poder encontrar nuevas cosas y hacer una guía de que es cada cosa agregando mis apuntes (quiero agregar datos que quizás yo no tengo o encontré y que me ayuden a entender)Quiero encontrar una manera de hacer algún manual que yo entienda de lo que hemos visto y de cada pieza de este puzzle. 
 
+------------------------------------
+
+### Glosario
+
 **Corriente eléctrica:** es el flujo de cargas eléctricas (normalmente electrones) que se mueven a través de un material.
 
 **Ley de Ohm:** Intensidad de la corriente (I) mientras más corriente, más electrones pasando, la diferencia de potencial (el voltaje (V)), y resistencia (R) que tán fácil o tan difícil es para mi conducto dejar pasar lo que quiera, la resistencia no tiene polaridad. El resultado de ésto queda en la ecuación I (ampere) = V (voltios) / R (ohm).
@@ -139,6 +143,12 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 10. **Capacitor cerámico:** son de valor fijo hechos de material cerámico como dieléctrico. Está formado por dos o más capas de cerámica y una capa de metal que actúan como  electrodos. El comportamiento eléctrico y, por lo tanto, las aplicaciones de los materiales cerámicos están determinados por la composición del material cerámico. Los cerámicos son compuestos inorgánicos, no metálicos, de óxido cristalino, nitruro o carburo, como el carbono y el silicio. Tenemos de 104, osea 100.000 pF
 
 11. **circuito integrado (IC):** es una abstracción de un circuito. También a estos se les llama chip, es un dispositivo semiconductor compacto y de alta eficiencia que contiene multitud de componentes electrónicos interconectados, como transistores, resistencias y condensadores, todos fabricados en una sola pieza de silicio.
+
+-----------------
+
+**Type case:** Investigando sobre otro tema de interés, encontré una joya (para mi) que mezcla el rubro en el cual me desenvuelvo día a día y en que me estoy adentrando ahora que se llama “type case” realizado por Martin Bircher, dicho en sus propias palabras es una pantalla de baja resolución con 125 píxeles rectangulares de diferentes tamaños. Estos se forman a partir de la luz reflejada de LED controlados digitalmente, integrados en cada sección de una caja de tipos de imprenta europea. ¡esto es increíble!, cada uno tiene la misma cantidad de luz, pero gracias a que cada espacio tiene distintos tamaños, crea distinta cantidad de luz y sombra. Por ejemplo, la cavidad de la letra E es menor a la de la letra M ya que esta se ocupa menos que cualquier vocal. Eso si, no logro distinguir si se ocupó una caja para altas (mayúsculas) o bajas (minúsculas). 
+
+![type](imagenes/type_case.jpg)
 
 ### Preguntas
 
