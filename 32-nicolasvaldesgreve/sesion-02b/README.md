@@ -25,6 +25,10 @@ Luego de introducirnos los capacitores y el chip, nos enseñaron cómo utilizar 
 | D | LED |
 | +9 | Positivo de la batería 9V |
 
+Como no sabíamos como leer el circuito que nos mostraron, nos fueron guiando mientras armábamos el circuito en nuestra protoboard, en donde aprendí que los puntos que se ven entre los cables significan que se unen/encuentran. Al terminar, la protoboard se veía así:
+
+![Circuito con NE555P y capacitor 10μF en protoboard](./imagenes/circuito-en-protoboard.jpg)
+
 ---
 
 ### Capacitor de 10μF
