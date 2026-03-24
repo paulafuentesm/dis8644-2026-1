@@ -70,7 +70,7 @@ lo mismo que 2 pero con un disco de LCD Soundsystem.
 
 ## Análisis “Kraftwerk” y “LCD Soundsystem”.
 
-Kraftwerk:
+#### Kraftwerk:
 “El hombre maquina” (pero no el álbum, literalmente eran “humanoides” o eso querían representar en sus inicios).
 
 Kraftwerk, la verdad a sido una experiencia de escuchar, porque no tenia ni idea de donde venia este tipo de música, y lo más parecido que había escuchado hasta ahora, era “Sitting Down” de Psilodump (es mi canción favorita, de algún modo, este tipo de música que solo explora sonidos no convencionales, te hace sentir bien, activo, alegre y es super contagioso).
@@ -80,4 +80,13 @@ El disco que yo escogí para analizar, no fue el primero ni el ultimo, es como i
 A nivel técnico, ya se nota un avance respecto a sus trabajos anteriores. El sonido es más limpio, más digital, menos “crudo” que en los 70. Se siente un poco más controlado. Los ritmos son súper precisos, y repetitivos, y las melodías son simples pero muy pegajosas. Lo que más me llamó la atención es cómo logran hacer música que suena como puros sonidos “ahí” (esto lo digo porque mi oído ya está muy contaminado por la música actual), pero que igual se queda en la cabeza y de algún modo es contagioso. 
 
 Escuchando su música más reciente al igual que sus presentaciones, aún intentan mantener su compostura “humanoide”, pero claro, como ahora tienen más recursos tecnológicos, visuales, etc…, también lo hacen parte de sus presentaciones, pero sin perder su esencia.
+
+#### LCD Soundsystem.
+
+Para este análisis, escogí la canción “Sound of Silver” porque siento que logran algo muy cool que no sé cómo describir; mezclar música electrónica con una sensación cálida, humana. 
+
+La canción salió en 2007, en un momento donde la música electrónica ya estaba muchísimo más avanzada. Lo interesante de esta canción, es que no suena a música electro/pop típica, sino a algo más íntimo, más como una mezcla entre electrónica y rock indie. Aquí lo que más me llamó la atención, es la manera en la que usan el ritmo, porque muchas canciones de las que escuche, comienzan como simples, con loops que se repiten, pero cada vez van creciendo más a medida que avanza la canción. Por ejemplo, en otra canción que se llama “All my friends”, hay como un sonido constante y va en loop, pero la intensidad de este va subiendo hasta volverse algo mucho más potente.
+
+En cuanto a los shows en vivo, esta banda funciona completamente distinto a Kraftwerk, porque aquí no hay como esa rigidez ni frialdad, si no lo contrario; hay más energía, un desorden controlado, interacción con el público.
+
 
