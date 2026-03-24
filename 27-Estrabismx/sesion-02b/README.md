@@ -82,11 +82,28 @@ Posee un sistema de codigo en su cara frontal
 ![Capacitor electrolitico](./imagenes/capacitor.webp)
 
 ![Meme](./imagenes/capacitor-meme.jpg)
-
+>Meme educativo
 <br>
 
 ### - Potenciometro ###
+
+***Reagulador dínamico***
+
+Internamente tiene una pista de carbón y un contacto móvil (cursor) que se desplaza al girar el eje, cambiando la longitud del camino que recorre la electricidad. Se mide en Ohms ($\Omega$) y suele tener tres patitas para conectarse, las de los extremos son fijas, y la del centro es la que *varía* el valor según hacia dónde gires la perilla.
+
+![Potenciómetro](./imagenes/potenciometro.jpg)
+
+### - Fotoresistor (LDR: Light Dependent Resistor) ###
+
+***Controlador según luz***
+
+Es el componente responsable de que los postes de luz en la calle se prendan solos al anochecer. En términos técnicos, es un material semiconductor que reacciona a los fotones. No tiene polaridad, así se puede conectar en cualquier sentido.
+
+![Fotoresistencia](./imagenes/fotoresistencia.webp)
+
 ### - Chip 555 ###
+
+
 
 ## Preguntas sesion-03a ##
 
