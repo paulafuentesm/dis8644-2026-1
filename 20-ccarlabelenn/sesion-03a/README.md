@@ -14,6 +14,7 @@
 circuito A-estable con parlante 
 
 ![circuito-a-estable](./imagenes/circuito-a-estable.jpeg)
+![apuntes-1](./imagenes/apuntes-1.jpeg)
 
 ## segundo bloque 
 + condensador en serie: atenua ciertos comportamientos de la onda
@@ -21,3 +22,9 @@ circuito A-estable con parlante
 + con resistencia y condensador se puede filtrar, escalersa de moog (mood filter ladder)
 + (R) atenua (C) filtra 
 + las diferencias son importantes porque son productivas 
+
+## encargo 03 
+
+expander el circuito anteriormente usado, incorporando más botones.
+
+  + este ejercicio lo hicimos en un grupo de 5 personas, fuimos siguendo el circuito paso a paso dividiendolo por partes, izquierda, centro y derecha. Aplicamos conocimientos anteriormente aprendidos para que este mismo funcionara de manera exitosa jejejejej, 
