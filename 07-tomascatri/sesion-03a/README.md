@@ -79,4 +79,12 @@ Luego de crear el computador, trabaja con un Atari y, controlando sintetizadores
 En mi opinión, me parece algo importante que se conserve la memoria de José Vicente Asuar, debido a que su aporte en Chile fue un antes y un después en toda Latinoamérica y en el mundo. Muchas veces se le atribuye este tipo de innovaciones a Europa o a Estados Unidos, cuando en realidad este documental rompe totalmente esta idea, haciendo ver que su legado no es solo una inspiración para los próximos músicos, sino también una forma de resistencia al olvido que viven algunos de la historia chilena y que fueron de vital importancia.
  
 #### **Expandir circuito entregado basado en el 555**
+Junto a mi compañero Ángel Sabogal, que me prestó un botón, por lo que lo hicimos con 2, conseguimos un resultado, desconocemos si así se arma en la protoboard o cuál era el resultado esperado, pero lo hicimos de manera que a ambos nos pareció congruente.
+Primeramente, hicimos experimentación en Tinkerpad para después pasar al protoboard.
+Los resultados fueron que el primer botón daba el pase para que el segundo aumentara mucho la frecuencia de oscilacion, me parecio interesante como este aumento aun mas la frecuencia de oscilacion que tenia con solo el potenciometro.
 
+![ejercicio](./imagenes/ejercicio_03a.jpeg)
+
+![ejercicio_tinkercad](./imagenes/ejercicio_tinkercad_03a.png)
+
+---
