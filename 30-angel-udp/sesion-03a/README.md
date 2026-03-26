@@ -94,14 +94,19 @@ RV es el potenciometro
 Circuito Toy organ
 ---
 
-Trabajé junto a mi compañero Tomás Catrileo para tener un total de 2 botones y como el se quedó con el hardware (osea mi botón / Switch)
+Trabajé junto a mi compañero Tomás Catrileo para tener un total de 2 botones y como el se quedó con el hardware (osea mi botón / Switch), hicimos las ruebas en en TINKERCAD para entenderlo y luego desarrollarlo en físico.
 
-hicimos las ruebas en en TINKERCAD para entenderlo y luego desarrollarlo en físisco
-acá imagens de como tiramos el boceto y luego siguiendo el esquema dado por los profesores llegamos al resultado final
+Acá pongo imagenes de como tiramos el boceto y luego siguiendo el esquema dado por los profesores llegamos al resultado final
 
 Matuvimos y repasamos el circuito aprendido en clase e hicimos el inteto siguiendo el nueco esqueme da agregarle los 2 switches mas las resistencias
 
-![ejemplo 1](./imagenes/ejercicio01.jpeg)
+![ejemplo 1](./imagenes/esquema_toyorgan.png)
+
+![ejemplo 2](./imagenes/avance1.png)
+
+![ejemplo 3](./imagenes/avance2.png)
+
+![ejemplo 4](./imagenes/circuito_toyorgan.jpeg)
 
 Documental: Variaciones Espectrales
 ---
