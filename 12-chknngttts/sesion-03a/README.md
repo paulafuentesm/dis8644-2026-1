@@ -76,13 +76,13 @@ https://github.com/user-attachments/assets/50f857e5-37db-4d89-b2d2-fb45f96c2c6c
               - ![quema quema 555](./imagenes/555_muerte.gif)
             - lo intenté denuevo otro dia para ver si lo podria hacer
               - denuevo no me funcionó
-                - ![sad](./imagenes/sad.png)
+                - ![steamsad](./imagenes/sad.png)
     - encontré un video en youtube que hacia una especie de toy organ
       - https://www.youtube.com/watch?v=Mw5FAIA1ghs
       - no es el que nos pidieron pero era una versión alterna
         - lo intenté hacer y no me funcionó como deberia
           - no lo segui al pie de la letra tampoco, más que nada era para hacer algo
-          - ![sad](./imagenes/sad.png)
+          - ![steamsad](./imagenes/sad.png)
           - pero si sonaba interesante!!!
             - ![intento toy organ1](./imagenes/toy_organ21.jpg) ![intento toy organ2](./imagenes/toy_organ22.jpg) ![intento toy organ3](./imagenes/toy_organ23.jpg)
            
@@ -105,5 +105,60 @@ https://github.com/user-attachments/assets/ca6b71ee-aebb-45fd-96db-4b6c7349be76
 
 - ## **variaciones espectrales**
   - documental 2013
-  - **ME FALTAVERLO LO VEO HOY HOLA**
+  - carlos lertora
+ 
+  - nuevos sonidos de oscilaciónes electricas
+    - sonidos electronicos
+      - sonidos puros
+        - producidos por una vibración
+          - sinewave ej
+          - todo el rango de audición
+  - musica experimental necesitaba muchos medios caros para realizarla
+  - circuit bending
+    - ??????
+  - ISL (Interfaz sonora luminica)
+  - AI-MAAKO (Festival)
+  - electro-acustica
+    - musica electronica sin computador
+    - ![sintetizador analogo de josé](./imagenes/synth-modular.png)
+  - Jose Vicente
+    - ![Jose Vicente](./imagenes/jose.png)
+    - compositor e ingeniero/investigador
+    - "musico misterioso"
+      - hizo algo imoprtante pero por la epoca fue olvidado
+    - variaciones espectrales (1959)
+    - variaciones espectrales n3 evocativa (1959)
+      - partitura(?) en papel
+        - dibujado a mano con figuras geometricas que forman el sonido
+      - espectro
+        - espectrograma
+      - crea su tipo de partitura para esta musica espectral
+        - con simbolos propios
+    - se va con beca a alemania para seguir trabajando
+    - 71-71 llegan equipos para su laboratorio de la universidad
+    - 69-70 piensa en la posibilidad de hacer musica con computadores
+    - construye su computador
+      - con **2kb de RAM**
+      - predecesor del MIDI
+    - empieza a desaparecer
+  - 90's
+    - profesor deja de lado el embiente academico
+      - va a francia
+      - empieza a escribir sobre la musica electro-acustica
+        - descubre lo importante que fue Jose Vicente
+          - lo buscan para trabajar con el
+  - musica de pajaros :)
+    - se graban sonidos en cinta
+      - se corta y pega para editar
+       - al colocarlo de vuelta se escuchaba muy unico
+      - apropiarse concretamente del sonido como material
+     
+- ![album de jose](./imagenes/asi-hablo-el-computador.png)
+  - https://www.youtube.com/watch?v=pAIVrKc7xsQ
+    - "El jazz del computador" es mi favorita
+      - muy entretenida y diversa
+        - me hizo feliz
+
+
+-![hola](./imagenes/lol.png)
     
