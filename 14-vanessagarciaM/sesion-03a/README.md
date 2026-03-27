@@ -102,8 +102,9 @@ Existen dos tipos principales:
 En el circuito: 
 
 + Se quitó el cable que iba del pin 8 del chip a la batería  
-+ El interruptor se colocó entre ese punto y la batería 
-
++ El interruptor se colocó entre ese punto y la batería
+  
+![resumen](./imagenes/resumen.jpeg)
 ___
 
 ## Encargo: Circuito TOY ORGAN 
