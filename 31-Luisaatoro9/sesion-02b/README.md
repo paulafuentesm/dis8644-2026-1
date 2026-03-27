@@ -128,7 +128,7 @@ Si el capacitor es nuevo, la pata más larga siempre es la positiva (+). Si las 
 * **Capacitores en Paralelo:** A diferencia de las resistencias, sus capacidades se suman aritméticamente ($C_{total} = C_1 + C_2$), aumentando el tiempo de almacenamiento.
 * **Modificación técnica:** Se integró un tercer LED con su respectiva resistencia de protección, puenteando el terminal hacia el nodo vinculado al pin 5 del integrado para observar variaciones en la salida de señal. ![Registro de bitácora: Diagrama del CI 555 y lógica de conexiones]
 
-## 4. Investigación y Cuestionamiento Crítico Se plantean las siguientes interrogantes para profundizar en el comportamiento del hardware: 
+## 4. Investigación y Cuestionamiento Crítico Se plantean las siguientes preguntas para profundizar en el comportamiento del hardware: 
 1. ¿Cuál es el impacto térmico o eléctrico de invertir la polaridad en los pines de alimentación del NE555P?
 2. ¿Cómo influye el material de las bandas de colores en la precisión del valor nominal de la resistencia?
 3. ¿Por qué el capacitor cerámico, a diferencia del electrolítico, no requiere una orientación específica para cerrar el lazo?
