@@ -6,11 +6,10 @@
 El día de hoy, la bitácora estará dividida en # partes:
 
 1.	Explicación sobre la frecuencia y la oscilación.
-2.	Esquematización del parlante y de los botones.
-3.	Lectura de estos esquemas para su realización.
-4.	Circuito ASTABLE
-5.	Registro de intentos del Toy Organ.
-6.	Apuntes del documental “variaciones espectrales sobre la vida de José Vicente Asuar”.
+2.	Esquematización y lectura de estos esquemas para su realización.
+3.	Circuito ASTABLE
+4.	Registro de intentos del Toy Organ.
+5.	Apuntes del documental “variaciones espectrales sobre la vida de José Vicente Asuar”.
 
 Veamos que tal.
 
@@ -30,7 +29,7 @@ Pues este funciona con una frecuencia de oscilación:
 
 El circuito funciona generando una señal que cambia repetidamente entre 0V y 9V, lo que se conoce como una oscilación. Esta oscilación es producida por el NE555 timer, que utiliza la energía de la pila para cargar y descargar un capacitor de forma continua. Como resultado, la salida del circuito “enciende y apaga” constantemente, creando una señal periódica cuya rapidez está determinada por la frecuencia de oscilación.
 
-## 2. Esquematización del parlante y de los botones.
+## 2. Esquematización y lectura de estos esquemas para su realización.
 
 Cuando se utilizan parlantes en un circuito, es importante poder controlar la frecuencia de la señal, ya que esta determina el tono del sonido que se escucha. Por eso, en lugar de una resistencia fija, se emplean componentes como un potenciómetro o un fotorresistor, que permiten variar la resistencia del circuito. El potenciómetro permite un control manual, ajustando el tono según la posición, mientras que el fotorresistor modifica la frecuencia automáticamente en función de la luz del entorno. Así, el circuito deja de ser estático y se vuelve interactivo, generando sonidos que pueden cambiar en tiempo real.
 
