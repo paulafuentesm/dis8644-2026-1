@@ -3,11 +3,17 @@
 
 ### pre-clase (teloneo Aaron)
 
+**radio kexp:** clipping
+
+Micrófono en el hielo
+
+Misa: fue a la antártida para un proyecto con Ingrid Wildit merino
+
+Departamento de estudios humanísticos (DEH)
+
 ### clase
 
-- Primera parte: Aaron 
-
-- Segunda parte: Misaa
+- Misaa
 
 ### imagenes de proceso
 
