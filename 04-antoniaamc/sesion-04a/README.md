@@ -1,6 +1,6 @@
 # sesion-04a
 
-* Completar - arreglar
+## Completar - arreglar
 
 Flip Flop 
 Qué es
