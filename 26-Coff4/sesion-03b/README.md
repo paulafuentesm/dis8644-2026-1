@@ -49,7 +49,7 @@ Lo loco es lo mucho que fallé por errores tan simples. Gracias a quienes me ayu
 
 [![funciona](https://img.youtube.com/vi/ITuZQMOAjr4/0.jpg)](https://www.youtube.com/watch?v=ITuZQMOAjr4)
 
-[!pain](https://img.youtube.com/vi/jl1xaJP4uyk/0.jpg)](https://www.youtube.com/watch?v=jl1xaJP4uyk)
+[![Pain](https://img.youtube.com/vi/jl1xaJP4uyk/0.jpg)](https://www.youtube.com/watch?v=jl1xaJP4uyk)
 
 
 - Aunque voy a dejar esta imagen que ya compartí por Discord para la posteridad. (Son las equivalencias de las lentejas)
