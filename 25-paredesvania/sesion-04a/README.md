@@ -91,3 +91,5 @@ Cambiamos el fotoresistor por un potenciometro para probar cosas ;))))
 
 Luego conectamos un potenciometro para controlar el volumen:
 ![555](./imagenes/volumen.heic)
+
+Hola Aarón soy vania desde mi visual studio code slay.
