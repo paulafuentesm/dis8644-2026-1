@@ -51,9 +51,13 @@ Este se llama “Active line drive ALD-1”, el cual tiene un ruido que aún no 
 
 Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo (es hermoso poder reconocer cosas que antes no tenia pensado en saber. Este ramo me ha ayudado a poder hablar más con mi papá)
 
-Dividi en 4 secciones la PCBA
+-------------------------
+
+Dividi en 4 secciones la PCBA:
 
 - Zona 1
+
+![zona 1](imagenes/zona-1.jpeg)
 
 Resistencias:
 
@@ -72,7 +76,30 @@ Condensadores:
 | 2 | 100 µF      | 35 V   |
 | 3 | 220 µF      | 63 V   |
 
+Los demás componentes:
+
+| Símbolo | Tipo de componente        | Descripción / Modelo        |
+|--------|--------------------------|----------------------------|
+| E      | Entradas                 | modelo                     |
+| SW     | Interruptor              | Witoft 205 9305            |
+| Q      | Transistores             | 5, 6, d                    |
+| Q      | Transistores             | K214 Z K5                  |
+| Q      | Transistores             | J77 3 H5                   |
+| D      | Diodos                   | Z5IN 93J                   |
+| D      | Diodos                   | 4935 8026                  |
+| D      | Diodos                   | 30B 402                    |
+| D      | Diodos                   | J2 30B                     |
+| C      | Capacitores              | MKS 4                      |
+| C      | Capacitores              | 1.0 µF / 63 V              |
+| C      | Capacitores no polarizados | 502                      |
+| R      | Resistencias             | 25R 3                      |
+| R      | Resistencias             | a 20% 9402          |
+
+-------------------------
+
 - Zona 2
+
+![zona 2](imagenes/zona-2.jpeg)
 
 Resistencias:
 
@@ -96,14 +123,46 @@ Condensadores:
 | 3 | 100 µF      | 35 V   |
 | 4 | 100 µF      | 16 V   |
 
+Los demás componentes
+
+| Símbolo | Tipo de componente   | Descripción / Modelo                              |
+|--------|----------------------|--------------------------------------------------|
+|    -    | Transformador        | Toroidal                                         |
+| J      | Jumper               | Puente / conexión interna o selección            |
+| D      | Diodos               |-----                          |
+| U      | Circuito integrado   | LM317                                            |
+| TP     | Punto de prueba      | Punto de prueba                                  |
+| Q      | Transistores         | (≈6 patitas, no dice nada)                         |
+| XLR    | Conector             | Tipo XLR (audio profesional)                     |
+
+-------------------------
+
 - Zona 3
 
+![zona 3](imagenes/zona-3.jpeg)
 
 Resistencias:
 
+| # | Banda 1 | Banda 2 | Banda 3 | Banda 4 | Banda 5 | Banda 6 |
+|---|--------|--------|--------|--------|--------|--------|
+| 1 | rojo   | café   | dorado | negro  | verde  | naranja |
+| 2 | rojo   | café   | rojo   | negro  | negro  | café   |
+| 3 | rojo   | café   | negro  | café   | rojo   | rojo   |
+| 4 | rojo   | café   | dorado | café   | rojo   | rojo   |
+| 5 | rojo   | café   | negro  | blanco | amarillo | rojo |
+| 6 | rojo   | café   | naranja| blanco | blanco | amarillo |
+
 Condensadores:
 
+| # | Capacitancia | Voltaje |
+|---|-------------|--------|
+| 1 | 100 µF      | 35 V   |
+
+-------------------------
+
 - Zona 4
+
+![zona 4](imagenes/zona-4.jpeg)
 
 Resistencias:
 
@@ -113,6 +172,49 @@ Resistencias:
 | 2 | rojo   | café   | dorado  | café    | rojo    | rojo   |
 
 Condensadores:
+
+No hay
+
+-------------------------
+
+- Carcasa (parte delantera)
+
+SW1 → lee si es CD, tuner, video,
+tape 1, aux / phono.
+
+SW2 → lee si es tape 1, source, tape 2
+
+PCBA demarca hace conexión con zona 4 lo cual te dirige a la conexión salida con cables. Además lleva a "tape defeat", donde si está encendido,mutear, además del regulador derecha o izquierda.
+
+SW3 → ve si es normal o directo.
+
+R124 → No sé qué es (supondre que es para subir volumen ya que no dice nada)
+
+- Carcasa (parte tracera)
+
+J29, J27, J28, J30 dirigen el transformador toroidal al encendido o apagado además del cable de 230VAC - T315 mA
+
+(Todo lo de adelante se refleja en otros con cables)
+
+J23, J24 (LEFT), J25, J26 (RIGTH) (balancean el output)
+
+desde J1 a J20 siguen conectados previamente hasta CD con L y R.
+
+![atras](imagenes/carcasa-atras.jpeg)
+![2](imagenes/salida-2-parte-trasera.jpeg)
+![1](imagenes/salida-1-parte-trasera.jpeg)
+-------------------------
+
+1. En zonas 2 y 3 hay circuitos integrados de 65448
+2. Los GND y TP estan por todas las zonas y tienen un alambre soldado
+3. Las E solo estan soladadas
+4. El equipo tiene otra PCBA pero esta en vertical la cual sus LED estan hacia afuera. Logro apreciar que tiene condenzadores no polarizados, LED, circuitos integrados de 8 pins, 14 pins y resistencias.
+5. Me gusta el diseño de los sectores, muy microdesign
+6. Hay una entrada de cable que tienen una conexión con la placa de cables que es GND
+
+![pcba2](imagenes/pcba-2.jpeg)
+
+(HACER DIBUJOS)
 
 
 
