@@ -45,7 +45,7 @@ En mi caso estoy desmantelando un equipo que me prestó mi papá, me enseo sus e
 
 Este se llama “Active line drive ALD-1”, el cual tiene un ruido que aún no han podido arreglar para poder escuchar música. 
 
-Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo. 
+Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo (es hermoso poder reconocer cosas que antes no tenia pensado en saber. Este ramo me ha ayudado a poder hablar más con mi papá)
 
 
 transformadores toroidales
