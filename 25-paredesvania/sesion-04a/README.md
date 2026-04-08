@@ -4,10 +4,6 @@ Izquierda afinaciones <- -> Derecha salidas
 
 ![555](./imagenes/chiprepaso.jpg)
 
-Aquí tienes la info ordenada en tabla clara para tu README:
-
----
-
 ## Escalas y unidades electrónicas
 
 ### Prefijos de baja magnitud (usados en capacitores)
