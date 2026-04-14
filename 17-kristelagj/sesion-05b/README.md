@@ -21,6 +21,16 @@ Gracias a esto, no sé si lo he mencionado antes, pero hay algo que me ha estado
 
 - Misaa
 
+Esta parte de la clase fue mucho más rápida y realizamos mucho trabajo en grupo (puedo ser honesta que en el segundo ejercicio no participe mucho por estar pendiente de otra cosa, pero en el primer ejercicio estuve al 100%)
+
+**reloj con 555:** astable
+
+- reloj CD9093
+
+Hoy implementamos el chip 4017
+
+- Contador de décadas es de Q0 a Q9
+
 ### imagenes de proceso
 
 ### post-clase
