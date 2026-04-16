@@ -41,31 +41,71 @@ videos explicativos:
 **Frecuencia:** cada cuánto pasa algo (suceso y tiempo).
 El tiempo que hay mientras se repite un ciclo es una onda. Ese tiempo es el que se llama **periodo**, ese periodo **define una onda**.
 
-ej periodos importantes:
-día (la tierra gira, 24 horas)
-ingesta de remedios(tomar pastilla, 8 horas)
+ejemplos de periodos importantes:
+- día (la tierra gira, 24 horas)
+- ingesta de remedios(tomar pastilla, 8 horas)
 
 
-**Fórmula:**
 
-1/periodo (1/T)
+**Fórmula de frecuencia (*f*):**
 
-periodo asociado a la frecuencia 
+Frecuencia (general/tiempo):  *f*= 1/T'
+
+-> Donde *f* es frecuencia en Hertz (Hz) y *t* es el periodo o tiempo de un ciclo. **Mide cuántos eventos ocurren en un tiempo definido.**
+
+ 
+(**Tiempo total / número de oscilaciones**)
+
+**Fórmula período (*T*):**
+
+T= *t*/*n* 
+
+-> Donde *t* es el tiempo total y *n* es el número de ciclos o revoluciones. **También se calcula como el inverso de la frecuencia**.
 
 *revisar estos apuntes… 
 
-astsi C se hace más grande, la frecuencia baja.
-A sube, T baja.
+Si aumenta la frecuencia, el período disminuye
+Si disminuye la frecuencia, el período aumenta
+
+
+*revisar estos apuntes… (los escribi a la rapida)
+
+- Si C se hace más grande, la frecuencia baja. 
+- A sube, T baja. (cambiado más adelante por frecuencia <-> período)
+- RV resistencia 7/6 mayor a 1kg 
+- ~~la oscilación no ocurre en el led~~, se manifiesta, ocurre en la patita
+- oscilación puede ocurrir en cualquier frecuencia 
+- voltaje 9V
+
+##Corrección:
+
+###Sobre el circuito###
+
+1. **Si C se hace más grande, la frecuencia baja.**
+  
+Un condensador (con números) más grande tarda más en cargarse/descargarse -> ciclos más lentos -> menor *frecuencia (f)*.
+
+2. **Resistencia variable (RV)**
+
+- Controla la frecuencia junto con el condensador
+- Mayor resistencia -> carga más lenta -> menor *frecuencia (f)*.
+
+Preguntar por:
+
+7/6 probablemente es la conexión entre pines (parece que son patitas del 555) mayor a 1kΩ (para evitar exceso de corriente).
 
 RV resistencia 7/6
 
 
-mayor a 1kg
+###Sobre la oscilación###
 
-la oscilación no ocurre en el led, se manifiesta, ocurre en la patita
-oscilación puede ocurrir en cualquier frecuencia
+**Correcióon:**
 
-voltaje 9V
+- La oscilación ocurre en la salida del circuito (pin del 555)
+
+- El LED solo muestra esa oscilación (parpadea)
+  
+***La señal actúa y LED es como la pantalla***
 
 
 *Segundo bloque*
