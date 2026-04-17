@@ -13,7 +13,7 @@ So, let´s start c:
 
 ## 1. Simulador de Eurorack.
 
-https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/vcvrack.jpeg
+![vcvrackkkk](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/vcvrack.jpeg)
 
 1.	VCV Rack es una app en la web de síntesis modular virtual, inspirado en los sistemas de sintetizadores analógicos físicos (como los modulares Eurorack).
 
