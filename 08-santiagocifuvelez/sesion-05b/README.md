@@ -15,6 +15,8 @@ El **4017** es un circuito integrado que funciona como un contador decimal: reci
 
 ## 2. Clock Generator (555) y, Secuenciador (4017).
 
+![Esquema](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05b/imagenes/esquema-clock-y-secuenciador.jpeg).
+
 ## 3.	Resultado de trabajo en clase. 
 
 ![clock y secuenciador](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05b/imagenes/secuenciador-as-an-img.jpeg).
