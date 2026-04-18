@@ -9,7 +9,7 @@ Hoy día en clase vimos lo siguiente en clase:
 
 Period.
 
-# 1. Nuevo Chip: 4017.
+## 1. Nuevo Chip: 4017.
 
 ## 2. Clock Generator (555) y, Secuenciador (4017).
 
