@@ -5,7 +5,7 @@
 - **Push turn move (Kim Bjørn)**: libro sobre instrumentos musicales electrónicos.
 El libro celebra el arte y la ciencia detrás del **diseño de interfaz** en la música electrónica explorando el mundo funcional, artístico, filosófico y estético contenido en la misteriosa conexión entre intérprete y máquina.
 
-![bitacora-05-a](./imagenes/push-turn-move-kim-bjorn.jpg)  
+![bitacora-05-b](./imagenes/push-turn-move-kim-bjorn.jpg)  
 
 Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-move/)
 *uhhhh*
@@ -13,24 +13,18 @@ Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-m
 ### Rererentes:
 
 ## David Byrne  
-Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *Luaka Bop*. Famoso por usar un "traje grande" ("*Big Suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas**🔥🔥 que considera un superpoder creativo.
+Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *[Luaka Bop](https://luaka-bop.myshopify.com/)*. Famoso por usar un "traje grande" ("*big suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas**🔥🔥 que considera un superpoder creativo.
 
-Discución de David Byne y Autismo en [Reddit](https://www.reddit.com/r/talkingheads/comments/17h8if5/how_certain_is_it_that_david_byrne_is_on_the/)
+Fuente: 
+- Su [página de Wikipedia](https://en.wikipedia.org/wiki/Luaka_Bop)
 
-**[Luaka Bop](https://luaka-bop.myshopify.com/)**
+Discución sobre David Byne y Autismo en [Reddit](https://www.reddit.com/r/talkingheads/comments/17h8if5/how_certain_is_it_that_david_byrne_is_on_the/)
 
-![bitacora-05-a](./imagenes/luaka-bop-logo-original-bitacora-antoniaamc.png) 
-
-Fuente: [Wikipedia](https://en.wikipedia.org/wiki/Luaka_Bop)
-
-
-Fuente: su [página de Wikipedia](https://es.wikipedia.org/wiki/David_Byrne#:~:text=Para%20el%20pol%C3%ADtico%2C%20v%C3%A9ase%20David%20Byrne%20(pol%C3%ADtico).,de%20colaborar%20con%20multitud%20de%20otros%20artistas.)
-
-Presentaciones en vivo lol:
+Presentaciones en vivo:
 - [David Byrne en "Martes 13" de Canal 13 (1990)](https://www.youtube.com/watch?v=7JV6yHFamcg&t=10s)  
 - [David Byrne en vivo en Coachella 2026](https://www.youtube.com/watch?v=Kn1vsMJk260&list=RDKn1vsMJk260&start_radio=1)
 
-![bitacora-05-a](./imagenes/david-byrne-collach-bitacora-antoniaamc.jpg)
+![bitacora-05-b](./imagenes/david-byrne-collach-bitacora-antoniaamc.jpg)
 
 **DB: David Byrne**
 
@@ -41,52 +35,40 @@ Presentaciones en vivo lol:
 5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).  
 6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).  
 
------------------------------
-# ARREGLAR
-   
-- st vincent: diseño d guitarra
-- 
 En 2012, Byrne sacó un álbum colaborativo con St. Vincent, llamado Love This Giant.
 
+## St. Vincent
+Cantautora y multiinstrumentista estadounidense, Anne Erin "Annie" Clark (Tulsa, Oklahoma; 28 de septiembre de 1982). En 2006, comenzó a hacerse conocer como St. Vincent (referencia una canción de Nick Cave, *There She Goes, My Beautiful World: "And Dylan Thomas died drunk in / St. Vincent's hospital"*. El nombre también es una referencia a su bisabuela.
+
+Diseñó su propia guitarra eléctrica en colaboración con Ernie Ball Music Man. Pensada para su forma de tocar. Ajustó el cuerpo (guitarra) para que fuera más ergonómico con su cuerpo (St. Vincent), modificó la distribución de controles y buscó un sonido que funcionara tanto limpio como con distorsión.
+
+Fuentes: 
+- [Luthier Magazine](https://luthiermagazine.com/st-vincent-goldie-de-musicman-la-guitarra-de-diseno-que-encontre-en-directo/)
+- Su [pagina de Wikipedia](https://es.wikipedia.org/wiki/St._Vincent_(cantante))
+
+
+1 y 2. StV en 2018 u_u :D ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante))
+3 y 5. StV entrevista Vogue (2014). ([link](https://www.vogue.co.uk/article/five-minutes-with-st-vincent))
+4. Guitarras StV.
+6. Su firma, me gusta. ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante)#/media/Archivo:AnnieAutograph.png)
 
 # Interfaz instrumento
 
-- **Wingdings:** tipografia criptica
+- **Wingdings:** tipografía críptica.
+
+  
 
 
+---------------------------------------------
 
-## Indicacione instrumento (entrega grande)
+## Indicacione instrumento (entrega grande 24/4)
 
 - (2) interfaz de carton
-
 - aunque reciba gestualidad: que tenga una salida de audio donde viven el amplificador y el parlante
 - transformar energia a traves del voltaje
 - k sea ordinario / belleza: contextual
 
 ---------------------------------------------
-
-## Secuenciadores
-
-1. sss astable
-
-### Interpretación
-
-3 byts
-dos estados posibles elevado a 3: 8
-2^3
-
-kike
-mati
-aaron
-
-4byts 16
-
-+emi
-
-contadores de decada
-secuanciador impelementado con **4017**
-
---------------------------------------------------------------
  
 ## Código Binario  
 Método de representar datos o instrucciones utilizando únicamente los dígitos 0 y 1. Es el **idioma base** de las computadoras para comunicarse y almacenar información. Datos como texto, imágenes y sonido se transforman en código binario para poder ser procesados, cuando necesita realizar una tarea, esta se traduce al sistema binario y luego es ejecutada.
@@ -123,12 +105,63 @@ Resumen de Equivalencias
 00000010 = 2  
 01000001 = 65 (corresponde a la letra 'A')
 
+*01101000 01101111 01101100 01100001 00101100 00100000 01101010 01100101 01101010 01100101*
+
 --------------------------------
+
+## Circuito integrado 555
+
+![bitacora-05-b](./imagenes/signetics-ne555n.jpeg)  
+Fuente: Circuito Integrado 555 ([Wikipedia](https://es.wikipedia.org/wiki/Circuito_integrado_555))
+
+![bitacora-05-b](./imagenes/esquema-integrado-555-borrador-principal.png)  
+Fuente: *Máquinas sonoras, electrónicas y computacionales - Estrategias y recetas* (Aarón Moraga, Matías Serrano)
+
+# NE555 — Patitas y funciones
+
+| Pin | Nombre        | Función |
+|----:|--------------|---------|
+| 1   | GND          | Tierra (0V), referencia del circuito. |
+| 2   | Trigger      | Inicia la temporización cuando el voltaje baja del umbral. |
+| 3   | Output       | Salida de la señal generada (pulso). |
+| 4   | Reset        | Reinicia el temporizador cuando se activa. |
+| 5   | Control      | Permite ajustar el voltaje de referencia interno. |
+| 6   | Threshold    | Detecta el nivel alto y finaliza la temporización. |
+| 7   | Discharge    | Descarga el capacitor interno hacia tierra. |
+| 8   | VCC          | Voltaje positivo de alimentación (+V). |
+
+## Circuito integrado 4017  
+Contador por décadas (Decade counter / walking ring counter)
+
+![bitacora-05-b](./imagenes/cd4017-bitacora-05-b-antoniaamc.png)
+
+![bitacora-05-b](./imagenes/circuito-intgrado-4017-borrador-principal.png)
+
+# CD4017 — Patitas y funciones
+
+| Pin | Nombre           | Función |
+|----:|------------------|---------|
+| 1   | Q5               | Salida activa en el paso 5 de la secuencia. |
+| 2   | Q1               | Salida activa en el paso 1. |
+| 3   | Q0               | Primer paso; se activa al iniciar o tras reset. |
+| 4   | Q2               | Salida activa en el paso 2. |
+| 5   | Q6               | Salida activa en el paso 6. |
+| 6   | Q7               | Salida activa en el paso 7. |
+| 7   | Q3               | Salida activa en el paso 3. |
+| 8   | GND              | Tierra (0V), referencia del circuito. |
+| 9   | Q8               | Salida activa en el paso 8. |
+| 10  | Q4               | Salida activa en el paso 4. |
+| 11  | Q9               | Salida activa en el paso 9 (último paso). |
+| 12  | Carry Out        | Pulso al completar el ciclo; sirve para encadenar otro 4017. |
+| 13  | Clock Inhibit    | Pausa el conteo cuando está en 1; en 0 funciona normal. |
+| 14  | Clock            | Entrada de pulsos; cada pulso avanza la secuencia. |
+| 15  | Reset            | Reinicia la secuencia y vuelve a Q0. |
+| 16  | VCC              | Voltaje positivo de alimentación (+V). |
+
+
 
 # ARREGLAR
 
-* estudiar chips
-* (555, 4017, 
 
   tierra / 9 byts
 
