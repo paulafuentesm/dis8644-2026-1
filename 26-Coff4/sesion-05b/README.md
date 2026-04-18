@@ -46,4 +46,4 @@ Se intentó, me frustre, lo dejé, lo volvi a retomar, volví a fallar y así po
 
 
 
-CABE ACLARAR QUE EN LOS VIDEOS HABLO DE QUE ANDABA PENSANDO QUE ERAN LAS FALLAS (por eso no hay texto que acompañen los videos) 	〣( ºΔº )〣
+CABE ACLARAR QUE EN LOS VIDEOS HABLO DE QUE ANDABA PENSANDO QUE ERAN LAS FALLAS 	〣( ºΔº )〣
