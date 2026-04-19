@@ -1,8 +1,11 @@
 # sesion-06b
 
+## Calculador
 
-+ Falte pero mi grupo me fue notificando pasoa paso nlos nuevos cambios y que se estaba haciendo
-  
+[Schmitt Trigger Oscillator Calculator](https://stompboxelectronics.com/resources/schmitt-trigger-oscillator-calculator/)
+
+----
+
 Se trajieron modificaciones de el circuito anterior
 
 ![4pasos-2](https://github.com/paulafuentesm/dis8644-2026-1/blob/abcd22ab06683c16fb2a3ccd4df4ae38bf203ae6/13-paulafuentesm/sesion-06b/imagenes/4pasos-2.png)
@@ -30,7 +33,9 @@ Nuestra idea era juntarnos en la universidad con el sistema para revisar qué no
 
 ![intento2](https://github.com/paulafuentesm/dis8644-2026-1/blob/427ddbf389352fa7f4f676f40c2a69dadc41a3da/13-paulafuentesm/sesion-06b/imagenes/mut/intento2.jpg)
 
-https://github.com/user-attachments/assets/c9bc9e3d-9752-469b-a5c5-152cb30947aa
+
+https://github.com/user-attachments/assets/0cc25671-e605-4c00-9871-d4d48a210f03
+
 
 **Experiencia**
 + Al lograr que el sistema funcionara, comenzó a emitir sonidos muy fuertes y agudos, sumados a las vibraciones generadas por los otros botones. Al principio, cuando se conectaba, sonaba como una especie de alarma de emergencia o algo similar ( supongo ). Esto llamó la atención de la gente, que se preguntaba qué estaba sonando y nos miraba para ver qué estábamos haciendo. Incluso los guardias estaban cerca de nosotros ( supongo que pensaban que algo podía explotar )
