@@ -6,7 +6,7 @@
 Antes de comenzar con el teloneo, había colocado a Genesis, banda la cual estaba conformada por Peter Gabriel y después Phil Colins. La cual misaa me pregunto qué albums recomendaba de esas eras y le recomende el álbum homónimo “génesis” y “Invisible Touch”. Fue una agradable conversación que no esperaba tener. 
 
 Invisible touch (tema principal del albúm) https://www.youtube.com/watch?v=epOBenUjIHw
-https://www.youtube.com/watch?v=wgGIh9DA-Jk&list=PLWnwFAnZO1AHnVyPqRMvJ2QWgXOqRs0Sn&index=5
+It's Gonna Get Better (tema del albúm Génesis) https://www.youtube.com/watch?v=wgGIh9DA-Jk&list=PLWnwFAnZO1AHnVyPqRMvJ2QWgXOqRs0Sn&index=5
 
 La clase comenzó con misaa hablándonos de un libro de Karen Barat "Encontrarse con el universo a medio camino" que en verdad llamó mi atención, además de tener una falta ortográfica en la parte trasera. Gracias a esto, me dejó con grandes frases:
 
