@@ -3,7 +3,7 @@
 
 ![Tododaigual](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img2.png)
 
-Hola Profe Aron, Misa y Emi. Espero que se encuentren bien el día en el que estén leyendo estos textos.
+Hola Profe Aron, Misa y Emi. Espero que se encuentren bien el día en el que estén leyendo estos textos.  
 El día de hoy vamos a ver:  
 
 1.	Simulador de Eurorack.  
@@ -50,18 +50,26 @@ As a way of sumary:
 
 ## 4.	Lógica de Boole.
 
-Lord!, por ahora pondré mis apuntes express realizados en clase, pero cuando termine de organizarlos en limpio, los actualizo así super chusquis. 
-Besitos y ty.
+La lógica booleana es un sistema de razonamiento que trabaja con valores binarios: verdadero (1) y falso (0), y fue desarrollado por el matemático George Boole. En vez de usar números complejos, la lógica booleana se basa en operaciones simples que permiten tomar decisiones lógicas usando solo dos estados, y, en resumen, se ve así:
 
-This one is "OR"
-![OR](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/or.jpeg)
+![Boole](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img3.png)
 
-This one is "AND y NOT"
-![AND Y NOT](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/and-y-not.jpeg)
+Ahora vamos a profundizar un poco más con unos ejemplos explicados en clase. 
 
-This one is "NAND"
-![NAND](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/nand.jpeg)
+### OR *Símbolo representativo es: +*
 
-Por las precarias!
+![OR](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img4n.png)
 
+### AND *Símbolo representativo es:**
 
+![AND](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img5.png)
+
+### NOT
+
+![NOT](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img6.png)
+
+### NAND 
+
+![NAND](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img7.png)
+
+Fin.
