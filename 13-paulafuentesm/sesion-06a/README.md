@@ -36,6 +36,9 @@ Imagen: extraida del repositorio de Misaaaa.
 
 **Problema**
 
++ 555 - 4017= estaban funcionando (se comprobaron muchas veces)
++ 4093 - Salida= no estaban funcionado, sonido sucio he inestable
+
 + No hubo un registro del sistema de botones del sintetizador (4093), ya que, al no funcionar como debía, se generó un punto de frustración colectiva que impidió documentar el módulo 3. Personalmente, llegué al punto de explotar ( ella era un chip ) y no pude controlar mi frustración hasta el final de la clase. Desarmamos los circuitos alrededor de tres veces, pero aun así no funcionaban, generaba un ruido sucio y no una melodia o pulsos como se supone que debia sonar con el modulo 4. Se llamó a los profesores, pero no se logró identificar cuál podía ser el problema.
 
 **Después**
