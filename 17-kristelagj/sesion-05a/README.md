@@ -15,7 +15,6 @@ Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
 
 ![vcv rack](imagenes/vcv-rack.jpg)
 
-
 | Sigla | Nombre completo                          | Descripción                                                                 | Función principal                          | Parámetro controlado     |
 |-------|------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------|
 | VCA   | Amplificador Controlado por Voltaje      | Ajusta la ganancia de una señal de audio según un voltaje externo          | Controlar el volumen/amplitud              | Ganancia (amplitud)      |
@@ -29,6 +28,39 @@ Salida de VCO
 ![RUIDO](imagenes/ruido.jpg)
 
 RITMO Y FRECUENCIA ES LO MISMO
+
+-Compuertas Lógicas AND, OR Y NOT
+
+**AND:** la luz prende solo si ambos están encendidos (da 1 cuando todas las entradas son 1)
+**OR:** la luz prende si uno o ambos están encendidos (Da 1 cuando al menos una entrada es 1)
+**NOT:** si el interruptor está apagado, la salida se comporta como encendido (invertido) (invierte el valor de entrada) 
+
+## Compuerta AND (Y)
+| A | B | Salida |
+|---|---|--------|
+| 0 | 0 |   0    |
+| 0 | 1 |   0    |
+| 1 | 0 |   0    |
+| 1 | 1 |   1    |
+
+## Compuerta OR (O)
+| A | B | Salida |
+|---|---|--------|
+| 0 | 0 |   0    |
+| 0 | 1 |   1    |
+| 1 | 0 |   1    |
+| 1 | 1 |   1    |
+
+## Compuerta NOT (NO)
+| A | Salida |
+|---|--------|
+| 0 |   1    |
+| 1 |   0    |
+
+1 significa nivel alto (HIGH) y 0 nivel bajo (LOW). Tambien podria ser 1 es que se entrega voltaje y 0 no se entrega voltaje, osea inactivo. 
+
+![compuertas](imagenes/compuertas-logicas.png)
+
 
 ### imagenes de proceso
 
