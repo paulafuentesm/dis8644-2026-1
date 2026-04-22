@@ -1,6 +1,9 @@
 # grupo-01
 
 ## integrantes
++ Antonia Loch
++ Nicolás Valdés
++ Carla Núñez
 
 ## descripción del sintetizador realizado
 
