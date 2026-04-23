@@ -25,9 +25,68 @@ audio o video del sintetizador en acción
 
 ## proceso y resultados del reloj y secuenciador
 
-con chips 555 y 4017
+En esta etapa logramos la sincronía entre la generación del pulso (reloj) y la distribución rítmica (secuenciador). El montaje en la protoboard se organizó siguiendo un flujo vertical para mantener la claridad en las conexiones de los chips NE555, CD4017 y transistores. 
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+### Cableado y Estructura
+
+Para asegurar el funcionamiento y facilitar el testeo, implementamos un código de colores estricto:
+
+    🔴 Rojo: Conexión directa al polo positivo de la fuente de alimentación para energizar el circuito.
+    🟢 Verde: Conexión directa al polo negativo (GND), cerrando el circuito para que la corriente fluya.
+    ⚪ Blanco: Conexión directa desde las salidas del secuenciador hacia los indicadores LED, cada uno con su resistencia de 220Ω (rojo-rojo-café).
+    🟠 Naranja: Puentes de señal que llevan el pulso desde el secuenciador hacia la base de los 4 transistores 2N2222.
+    🔵 Azul: Puentes de configuración interna y retroalimentación. Se utilizaron en ambos integrados para definir su comportamiento: en el NE555 para unir los pines de disparo y umbral (2 y 6), y en el CD4017 para habilitar el chip y configurar el ciclo de reinicio (Reset).
+
+### Configuración y Montaje
+
+Etapa 1: Generador de Pulsos (NE555 Astable)
+
+El corazón del sintetizador es un temporizador NE555 configurado en modo astable, encargado de generar el pulso de reloj constante. La configuración final de sus pines es la siguiente:
+
+* **Estabilización de Voltaje (Pines 1 y 8):** Instalamos un capacitor cerámico "lenteja" 103 (10nF) entre el pin 1 (GND) y el pin 8 (VCC) para filtrar el ruido de la fuente y asegurar un funcionamiento estable.
+* **Configuración de Disparo (Pines 2 y 6):** Realizamos un puente entre estos pines para permitir que el chip se auto-dispare, manteniendo el ciclo de oscilación continuo.
+* **Control de Carga (Pin 2 y Capacitor):** Conectamos un capacitor electrolítico de 10uF desde el pin 2 hacia el positivo, el cual determina la temporización del pulso junto con las resistencias.
+* **Habilitación (Pines 4 y 8):** Ambos pines se conectaron directamente a positivo para mantener el integrado activo y evitar reinicios accidentales.
+* **Salida de Señal (Pin 3):** Se instaló una resistencia de 1kΩ (marrón-negro-rojo) para proteger un LED testigo conectado a negativo, permitiendo visualizar la frecuencia del pulso.
+* **Descarga y Protección (Pin 7):** Se colocó una resistencia de 1kΩ (marrón-negro-rojo) hacia positivo para gestionar la descarga del capacitor y proteger el ciclo interno del chip.
+
+Resultados Obtenidos (NE555)
+
+A través del pin 3, logramos una salida de señal cuadrada constante. Para verificar el éxito de esta etapa, instalamos un LED conectado a negativo que parpadea según la frecuencia configurada.
+
+* **Resultado Visual:** El LED muestra con total claridad la rapidez de los pulsos, permitiendo una referencia visual inmediata del tempo.
+* **Rango de Ajuste:** El potenciómetro de 100K otorga un control preciso, permitiendo pasar de pulsos individuales lentos a una frecuencia lo suficientemente alta como para ser la base de una nota musical.
+
+**Etapa 2: Secuenciador de Pasos (CD4017)**
+En esta fase, el integrado CD4017 actúa como el "cerebro" que distribuye el pulso recibido para crear la secuencia musical. La configuración final quedó establecida de la siguiente manera:
+
+* **Control de Ciclo y Reset (Pines 15 y 10):** Realizamos un puente entre el Pin 15 (Reset) y el Pin 10 (Salida 4). Esto fuerza al chip a reiniciar la cuenta inmediatamente después de la cuarta nota, logrando un bucle infinito de 4 pasos.
+* **Habilitación y Tierra (Pines 13 y 8):** Conectamos ambos pines al polo negativo (GND). El Pin 13 (Clock Enable) debe estar en bajo para que el chip "escuche" y procese los pulsos entrantes.
+* **Entrada de Reloj (Pin 14):** Recibe la señal cuadrada directamente desde el Pin 3 del NE555, sincronizando el avance de la secuencia con la velocidad del temporizador.
+* **Salidas de Notas (Mapeo Lógico):** Para obtener la secuencia correcta, conectamos las salidas a indicadores LED protegidos con resistencias de 220Ω (rojo-rojo-café) hacia negativo siguiendo el orden lógico de las salidas QQ:
+
+        Nota 1 (Q0Q0): Pin 3
+        Nota 2 (Q1Q1): Pin 2
+        Nota 3 (Q2Q2): Pin 4
+        Nota 4 (Q3Q3): Pin 7
+
+Resultados Obtenidos (CD4017)
+
+Al integrar el secuenciador CD4017, logramos transformar los pulsos del 555 en un ciclo lógico de pasos. Para verificar el éxito de esta etapa, mapeamos las salidas y configuramos el reinicio del chip, obteniendo los siguientes resultados:
+
+* **Sincronía Lógica:** El chip responde con total precisión a la señal de reloj proveniente del pin 3 del 555, permitiendo que el ritmo de la secuencia sea perfectamente estable y ajustable.
+* **Mapeo de Secuencia:** Tras identificar que las salidas no son correlativas físicamente, establecimos el orden correcto (Pines 3, 2, 4 y 7) para que las notas se activen en la secuencia musical deseada.
+* **Ciclo de Bucle Infinito:** Mediante la conexión del Pin 15 (Reset) al Pin 10, logramos que el chip reinicie la cuenta inmediatamente al llegar a la cuarta nota, eliminando silencios y creando un bucle continuo de 4 pasos.
+* **Habilitación Operativa:** La conexión del Pin 13 (Clock Enable) a negativo garantizó que el chip se mantenga siempre receptivo a los pulsos, asegurando la fluidez constante de la melodía sin interrupciones.
+
+**Etapa 3: Control de Frecuencia y Conmutación (Transistores 2N2222)**
+
+En esta etapa, los transistores actúan como interruptores lógicos que seleccionan qué nota debe sonar en cada paso de la secuencia. Orientando el transistor con su lado plano hacia nosotros, realizamos las siguientes conexiones:
+
+* **Emisor (Pata Izquierda):** Conectamos los emisores de los cuatro transistores directamente a negativo (GND), estableciendo una referencia común de tierra.
+* **Base (Pata Central):** Recibe la señal desde el CD4017 a través de un cable naranja y una resistencia de 100kΩ (marrón-negro-amarillo). Esta corriente es la que "abre" el transistor para activar la nota.
+* **Colector (Pata Derecha):** Es la vía de salida que lleva la información de control hacia el CD4093 (oscilador de audio). Al activarse el transistor, el colector permite que el circuito del 4093 genere el tono específico asignado a ese paso de la secuencia.
+
 
 ## proceso y resultados de osciladores y amplificador
 
@@ -61,7 +120,24 @@ video / audio
 
 ## aprendizajes y errores
 
-las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+A lo largo del desarrollo del OPEN-BEAT KRAFT, enfrentamos varios desafíos técnicos que nos permitieron profundizar en el funcionamiento de la electrónica analógica y digital. Estos fueron los errores más comunes y cómo los resolvimos:
+1. Estabilidad del Reloj (NE555)
+
+    El error: El circuito presentaba ruidos e interferencias que hacían que el pulso no fuera constante.
+    La solución: Instalamos un capacitor cerámico (lenteja 103) entre los pines 1 y 8. Esto filtró el ruido y estabilizó la señal por completo. Aprendimos que los capacitores de desacoplo son vitales para el buen funcionamiento de los integrados.
+
+2. Control de Velocidad y Percepción Visual
+
+    El error: Al usar un capacitor electrolítico ("tambor") de 1uF, el parpadeo era tan rápido que los LEDs del secuenciador parecían estáticos. Además, una resistencia de 10kΩ en el pin 7 hacía que el ritmo fuera demasiado lento incluso con el potenciómetro al máximo.
+    La solución: Cambiamos el capacitor a uno de 10uF para lograr un tempo musical perceptible y sustituimos la resistencia por una de 1kΩ. Esto nos dio el "punto dulce" de control sobre el B100K.
+
+3. Lógica del Secuenciador (CD4017)
+
+    El error (Orden): Los LEDs encendían en desorden porque asumimos que los pines físicos seguían el orden de las notas.
+    La solución: Mapeamos las salidas reales del chip (Pines 3, 2, 4 y 7) para sincronizar la secuencia con el pulso del 555.
+    El error (Reset y Enable): El circuito no avanzaba o se cortaba antes de la cuarta nota.
+    La solución: Descubrimos la importancia del Pin 13 (Clock Enable), que debe ir a negativo para que el chip funcione, y del Pin 15 (Reset), que conectamos al Pin 10 para cerrar el ciclo de 4 notas y crear un bucle infinito.
+
 
 ## conclusiones
 
