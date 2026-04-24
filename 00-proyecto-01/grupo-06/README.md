@@ -29,7 +29,7 @@ Comencemos:
 
 ## descripción del sintetizador realizado
 
-**Precarias**, llamado así por las diferentes situaciones inseguras ( errores o la constante broma de que todo iba a explotar) que nos hacía pasar el circuito antes de consolidarse como sintetizador funcional. Un sintetizador construido sobre protoboards e integrado en una carcasa de cartón diseñada bajo criterios de experiencia de usuario (UX). El diseño consiste de una interfaz múltiple: una zona táctil (fotoresistor) y otra con potenciómetros situados en el frente y los lateral izquierdo, teniendo así una experiencia multisensorial. 
+**Precarias**, llamado así por las diferentes situaciones inseguras (errores o la constante broma de que todo iba a explotar) que nos hacía pasar el circuito antes de consolidarse como sintetizador funcional. Este sintetizador esta construido sobre protoboards e integrado a una carcasa de cartón diseñada bajo criterios de experiencia de usuario (UX). El diseño consiste de una interfaz múltiple: una zona táctil (fotoresistor) y otra con potenciómetros situados en el frente y los lateral izquierdo, teniendo así una experiencia con un movimiento combinado (girar-precionar)
 El sistema se organiza en cuatro etapas, cada una realizada por un circuito integrado:
 
 + **Módulo 1:** consta del Clock (555) en modo astable que genera una oscilación constante. Utiliza un potenciómetro para regular carga y descarga, permitiendo un control sobre el ritmo y la actividad del sistema. Además cuenta con un fotoresistor la cual ayuda en la velocidad de la frecuencia.
