@@ -55,17 +55,20 @@ Ademas se repitió el proceso de soldar con los potenciómetros, en este caso so
 Las modificaciones que se realizaron fueron más que nada estratégicas, para poder tener menos cables de los que se estaban utilizando en las primeras pruebas, como el siguiente ejemplo; los capacitores pasan de estar uno al lado de cada uno, a estar conectados directamente con sus respectivos pines.
 
 Antes
+
 ![antes](./imagenes/antes.jpeg)
 
 Despues
+
 ![despues](./imagenes/despues.jpeg)
 
 ![sintetizador](./imagenes/sintetizador2.jpeg)
 
 ## carcasas de cartón
 
-![carcasa](./imagenes/carcasa.jpeg)
+![carcasa2](./imagenes/carcasa2.jpeg)
 
+![carcasa](./imagenes/carcasa.jpeg)
 
 ## interconexión entre módulos
 
