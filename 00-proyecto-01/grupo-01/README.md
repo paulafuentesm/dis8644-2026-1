@@ -25,6 +25,17 @@ audio o video del sintetizador en acción
 
 ## Componentes
 
+En este proyecto utilizamos diferentes componentes cada uno para funciones especificas los cuales son:
+- Resistencias ( )
+- Diodos
+- Condensadores
+- Potenciometros
+- parlante
+
+Ademas diferentes chips, siendo estos:
+- LMD386
+- CD4093BE
+
 ## Proceso y resultados del reloj y secuenciador
 
 con chips 555 y 4017
