@@ -87,13 +87,12 @@ Para proteger los componentes, el cátodo de cada LED se conectó al negativo a 
 ## proceso y resultados de osciladores y amplificador
 
 ### Chips 4093
-Secuenciador se transforman en frecuencias audibles mediante el uso de compuertas Schmitt Trigger.
 
 #### Paso 1: Alimentación
-Conectamos los pines 14 al positivo (VCC) y 7 al negativo (GND). Se instala un condensador cerámico (100nF) entre ambas líneas, ubicándolo lo más cerca posible de los pines de alimentación del chip.
+Conectamos el pin 14 al positivo (VCC) y 7 al negativo (GND). Se instala un condensador cerámico/no polarizado (100nF) entre ambas líneas, ubicándolo lo más cerca posible de los pines de alimentación del chip.
 
 #### 2. Paso 2: Configuración de Osciladores (Steps) 
-Conectamos de las cuatro compuertas NAND del 4093 se configura para recibir un pulso del secuenciador y finalizando cada STEP con la soldadura en el potenciador para poder moverse sin inconvenientes por la carcasa:
+Conectamos de las cuatro compuertas NAND del 4093 que se configura para recibir un pulso del secuenciador y finalizando con cada STEP doldandolo en el su potenciometro correspondiente para así poder moverse sin inconvenientes en la carcasa:
 
 + **STEP 1:** La señal proveniente del pin 3 del 4017 se ingresa a la pin 1. El pin 2 se vincula al potenciómetro RV2 (100k) y el condensador C5 (10uF). La salida resultante (pin 3) se dirige al nodo común MIX tras pasar por una resistencia (1k). Logrando un ruido más grave y con poco volumen por el tamaño del condensador.
 .
