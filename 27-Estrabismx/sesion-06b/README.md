@@ -110,21 +110,21 @@ Como se mencionó anteriormente, se revisó el uso de transistores.
 
 Pero ahora nos enfocaremos en 1 hora despues del término de la clase. Tal como se vio en la sesion-06a, diseñamos cajas para poder guardar los circuitos de manera modular, ahora es cuando procedemos al corte láser
 
-![Corte Láser](.imagenes/rf-02.jpg)
+![Corte Láser](./imagenes/rf-02.jpg)
 
 > Si en algún momento algún compañero de sección o incluso de otra clase desea aprender, puede comunicarse conmigo sin ningún problema y le puedo enseñar
 
-![Corte Láser](.imagenes/sc16.png)
+![Corte Láser](./imagenes/sc16.png)
 
 <br>
 
 Luego se armarón y se procedio a instalar los circuitos, acá nos percatamos de pequeños detalles, como que la abse debería ser extraíble, esto con el fin de poder acceder al circuito eliminando a la caja de la ecuación.
 
-![Corte Láser](.imagenes/rf-00.jpg)
+![Corte Láser](./imagenes/rf-00.jpg)
 
-![Corte Láser](.imagenes/rf-01.jpg)
+![Corte Láser](./imagenes/rf-01.jpg)
 
-![Corte Láser](.imagenes/rf-03.jpg)
+![Corte Láser](./imagenes/rf-03.jpg)
 
 <br>
 
@@ -132,15 +132,15 @@ Luego de esto, por mi parte me enfoque en proponer ideas en relación a la inter
 
 Siendo estos los resultados:
 
-![Corte Láser](.imagenes/sc10.png)
+![Corte Láser](./imagenes/sc10.png)
 
-![Corte Láser](.imagenes/sc11.png)
+![Corte Láser](./imagenes/sc11.png)
 
-![Corte Láser](.imagenes/sc12.png)
+![Corte Láser](./imagenes/sc12.png)
 
-![Corte Láser](.imagenes/sc13.png)
+![Corte Láser](./imagenes/sc13.png)
 
-![Corte Láser](.imagenes/sc14.png)
+![Corte Láser](./imagenes/sc14.png)
 
 ---
 
