@@ -1,12 +1,12 @@
 # grupo-10
 
-## **LA TOSTADORA INASTABLE** 
+## **LA TOSTADORA INASTABLE**
 
 ## integrantes
 
 - Isidora Alvarez Olivares - isidoraalvarez
 
--  Dayana Pañitrur - dayanapanitrur
+- Dayana Pañitrur - dayanapanitrur
   
 - Carla Pino Barrios- Coff4
 
@@ -18,14 +18,14 @@ Para nuestro proyecto se nos dio la tarea de hacer un Sintetizador en base a dif
 
 Por un lado tenemos los 4 chips en funcionamiento:
 
-Comenzando por el 555: Este esta hecho para funcionar como el Clock generator de nuestro Sintetizador, dando periódicamente pulsos (los cuales pueden ser ajustados tanto por el condensador como por la resistencia) que se pueden evidenciar  en un LED, siendo este último una conexión directa a nuestro siguiente chip 
+Comenzando por el 555: Este esta hecho para funcionar como el Clock generator de nuestro Sintetizador, dando periódicamente pulsos (los cuales pueden ser ajustados tanto por el condensador como por la resistencia) que se pueden evidenciar  en un LED, siendo este último una conexión directa a nuestro siguiente chip
 
 4017: desde la conexión CLOCK se traspasan los pulsos a nuestro Secuenciador, que como su nombre indica, hace secuencias de manera ordenada y esto lo demuestra en los STEPS que son 4
 
-4093: Los anteriormente mencionados STEPS son conectados al siguiente chip que es el “Sintetizador” del circuito. Gracias a las señales secuenciadas del anterior chip y con 4 potenciómetros, podemos variar los tonos/frecuencias 
+4093: Los anteriormente mencionados STEPS son conectados al siguiente chip que es el “Sintetizador” del circuito. Gracias a las señales secuenciadas del anterior chip y con 4 potenciómetros, podemos variar los tonos/frecuencias
 
 386: Para que se escuche todo nuestro circuito, es necesario este último chip, que funciona como amplificador gracias al parlante que va implementado, y en conjunto con un potenciómetro que regula el volumen de salida,  esto pasa por la conexión MIX que parte desde el 4093 y se termina conectando al 386 que transmite el sonido
- 
+
 Al menos lo básico de este:
 Ya que este circuito está basado en el esquemático que se nos pasó en clases. Por lo tanto se nos dio la libertad de modificar varias partes de este para lograr diferentes objetivos, desde la fuente de energía, la conexión a través de duponts y otras cosas que se irán viendo a lo largo de la presentación.
 
@@ -42,7 +42,7 @@ Tenemos el tema de la carcasa, la cual es diseñada tanto para la practicidad co
 
 ## proceso y resultados del reloj y secuenciador
 
-Para los chips 555 y 4017 no hubo complicaciones notorias o graves, al ser circuitos más estudiados por nosotras y que entre los chips se pueden comprobar fácilmente las fallas. Al menos esto era así antes de las modificaciones que se hicieron, porque era notorio cuando no funcionaban, por la implementación de los LEDS, ya que no siempre prendían u oscilaban correctamente. 
+Para los chips 555 y 4017 no hubo complicaciones notorias o graves, al ser circuitos más estudiados por nosotras y que entre los chips se pueden comprobar fácilmente las fallas. Al menos esto era así antes de las modificaciones que se hicieron, porque era notorio cuando no funcionaban, por la implementación de los LEDS, ya que no siempre prendían u oscilaban correctamente.
 
 Incluso en la versión final se retiraron los 4 LEDS del 4017 por la inestabilidad que estos generaban en el circuito.
 
@@ -72,17 +72,17 @@ Para el chip 4017 fue un poco menos caótico ya que descubrimos que no estaba bi
 
 Pero lo importante es que con ayuda y descartando posibilidades pudimos hacer que ambos circuitos funcionaran para el final.
 
-*Entre todo este proceso quisimos mantener los LEDS de la versión 2 del esquemático, pero después de intentarlo un tiempo prudente, decidimos descartarlo por el plazo de tiempo que teníamos* 
+*Entre todo este proceso quisimos mantener los LEDS de la versión 2 del esquemático, pero después de intentarlo un tiempo prudente, decidimos descartarlo por el plazo de tiempo que teníamos*
 
 ## proceso y resultados de osciladores y amplificador
 
 Tanto con el chip 4093 y el 386 tuvimos más complicaciones a la hora de implementarlos, ya que eran necesarios los chips anteriores para comprobar la eficacia de estos nuevos,  sobretodo hablando con el cableado, el cual contenía 4 entradas NAND, lo que suponía una gran cantidad de cables que fácilmente podrían ser confundidos entre ellos por los STEPS, en donde los LEDS del 4017 y la salida de sonido del 386 son los que comprobaban que el 4093 funcionara correctamente y ahora al depender de 3 circuitos todo podía ser más inestable, tanto por los cableados como por los chips
 
-Mientras pensábamos que los potenciómetros estaban mal soldados, fuimos probandolos en el 555 mientras se veía el 4093 
+Mientras pensábamos que los potenciómetros estaban mal soldados, fuimos probandolos en el 555 mientras se veía el 4093
 En este caso se fue probando cada compuerta una por una y se comprobó que hubo una mal interconexión entre este chip y el 386 porque GROUND iba conectado a nada y VCC estaba conectado al negativo de la protoboard.
 y para el 386 hubo un problema con el potenciómetro que nivelaba el sonido ya que la pata 3 de este, no estaba bien soldada.
 
-Una vez visto que el sintetizador empezó a producir frecuencias audibles  nuevamente, se decidió por modificar ciertos componentes para obtener distintas tonalidades, para esto se hizo un cambio en los capacitores de 10μF que se conectaban a los **Steps**: 
+Una vez visto que el sintetizador empezó a producir frecuencias audibles  nuevamente, se decidió por modificar ciertos componentes para obtener distintas tonalidades, para esto se hizo un cambio en los capacitores de 10μF que se conectaban a los **Steps**:
 
 **Step 1**: Se colocaron 3 capacitores de 47 μF en serie.
 
@@ -94,8 +94,8 @@ Una vez visto que el sintetizador empezó a producir frecuencias audibles  nueva
 
 Se hizo con la intención de obtener 4 sonidos totalmente distintos, desde el STEP 1, que es donde la frecuencia es menor, específicamente 0.46 Hz y STEP 4 donde la frecuencia es más alta: 45.95 Hz.
 
-Las páginas que utilizamos para calcular la frecuencia fueron, una recomendada por Aaron: 
-https://stompboxelectronics.com/resources/schmitt-trigger-oscillator-calculator/ y otra que encontramos en internet para sumar capacitores en serie: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor 
+Las páginas que utilizamos para calcular la frecuencia fueron, una recomendada por Aaron:
+<https://stompboxelectronics.com/resources/schmitt-trigger-oscillator-calculator/> y otra que encontramos en internet para sumar capacitores en serie: <https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor>
 
 ![modificaciones](./imagenes/modificaciones-sptes.jpeg)
 
@@ -181,7 +181,7 @@ Volumen / 386 ➢ Potenciometro Logaritmico
 
 Errores y aprendizajes del grupo:
 
-Aun teniendo gente apasionada en nuestro grupo, nadie queda libre de tener errores en cosas “básicas” como el traspaso de las conexiones dadas en el esquemático, entre los cables, o si están siendo alimentadas de manera correcta tanto a GROUND como a 9V. 
+Aun teniendo gente apasionada en nuestro grupo, nadie queda libre de tener errores en cosas “básicas” como el traspaso de las conexiones dadas en el esquemático, entre los cables, o si están siendo alimentadas de manera correcta tanto a GROUND como a 9V.
 
 “Algunas aun sabiendo se equivocaban y otras que intentaban ir a la par, también se equivocaban”
 
@@ -210,7 +210,7 @@ Y aun con todos los problemas de última hora, este proyecto nos da una rica exp
 
 Como último punto:
 
-También podemos mencionar que hubieron ideas descartadas en nuestro desarrollo 
+También podemos mencionar que hubieron ideas descartadas en nuestro desarrollo
 
 -Implementar 1 protoboard separada para la alimentación de todos los chips
 
@@ -218,20 +218,20 @@ También podemos mencionar que hubieron ideas descartadas en nuestro desarrollo
 
 -Mantener los LEDS del 4017 para el sintetizador final
 
-Y usar otra manera de dar energía al circuito. 
+Y usar otra manera de dar energía al circuito.
 En un momento decidimos investigar sobre maneras creativas de hacer esto y logramos que esto funcionara, e investigando vimos que hay muchos objetos e incluso personas que pueden ser parte de estos circuitos para proporcionar energía a otros.
 
 estos son parte de la investigación de la energía:
-https://www.instructables.com/Repurposing-Beverage-Cans-for-Low-Voltage-Electric/
-https://microbit.org/es-es/projects/make-it-code-it/human-circuit-experiment/ 
-https://www.sciencebuddies.org/science-fair-projects/project-ideas/Energy_p015/energy-power/make-a-battery-from-coins 
+<https://www.instructables.com/Repurposing-Beverage-Cans-for-Low-Voltage-Electric/>
+<https://microbit.org/es-es/projects/make-it-code-it/human-circuit-experiment/>
+<https://www.sciencebuddies.org/science-fair-projects/project-ideas/Energy_p015/energy-power/make-a-battery-from-coins>
 
 Cómo funcionan los chips:
 
-https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/ 
+<https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/>
 
-https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4017/ 
+<https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4017/>
 
-https://www.homemade-circuits.com/ic-lm-386-datasheet-explained-in-simple/
+<https://www.homemade-circuits.com/ic-lm-386-datasheet-explained-in-simple/>
 
-https://www.incb.com.mx/index.php/articulos/53-como-funcionan/768-como-funciona-el-circuito-integrado-555-art123s 
+<https://www.incb.com.mx/index.php/articulos/53-como-funcionan/768-como-funciona-el-circuito-integrado-555-art123s>
