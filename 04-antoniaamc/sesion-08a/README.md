@@ -110,7 +110,6 @@ Capas principales en PCB de 2 capas:
 2. **Dimensiones exactas de resistencias “largas”**  
 
 3. **Asignación de huellas (copiar/pegar)**  
-   → ✔ correcto en esencia  
    → importante: 
    - solo válido si el componente físico es equivalente  
    - no siempre intercambiable (ej: radial vs axial)
