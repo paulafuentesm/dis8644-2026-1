@@ -103,7 +103,7 @@ Capas principales en PCB de 2 capas:
 
 ---
 
-# ⚠️Por revisar / corroborar
+# !!!!!! Por revisar / corroborar
 
 1. **“que el filtro corresponda a la librería de la izquierda”**  
 
